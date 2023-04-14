@@ -1,6 +1,6 @@
 Package: jfa
 Title: Statistical Methods for Auditing
-Version: 0.6.6
+Version: 0.6.7
 Date: 2023-04-07
 Authors@R:
     person(given = "Koen",
